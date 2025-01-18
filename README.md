@@ -1,0 +1,1 @@
+You can find a write-up on this mess on [my blog](https://alexandrabaier.github.io/2025/01/18/typescript_type_system_neural_network.html).
